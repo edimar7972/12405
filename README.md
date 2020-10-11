@@ -6,5 +6,5 @@
 Este diretório contém o código fonte gerado para solucionar o problema 10245
 do *Online Judge*. O problema recebeu veredito \Accepted", como mostrado na
 figura abaixo:
-![Veredito](./10245-veredito.png)
+![Veredito](./12405-veredito.png)
 O programa foi desenvolvido em Python.
